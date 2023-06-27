@@ -1,4 +1,4 @@
-tkinter
+Pillow
 tk
 forex-python
 requests
